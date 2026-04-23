@@ -1,0 +1,170 @@
+Name: Sai Praneeth
+Roll: UMS1001
+Course: CSE
+Father: Ramesh
+Mother: Lakshmi
+FatherPhone: 9876543210
+FatherGmail: ramesh@gmail.com
+StudentPhone: 9012345678
+BloodGroup: O+
+Village: Kattur
+PreviousCollege: Narayana Junior College
+TenthMarks: 95
+InterMarks: 92
+Fees: 400000
+Username: saipraneeth
+Password: 123
+----------------------
+Name: Jasmitha
+Roll: UMS1002
+Course: AIDS
+Father: Reddy
+Mother: Saroja
+FatherPhone: 7675046339
+FatherGmail: reddy@gmail.com
+StudentPhone: 9000000001
+BloodGroup: A+
+Village: Ongole
+PreviousCollege: Sri Chaitanya
+TenthMarks: 96
+InterMarks: 94
+Fees: 420000
+Username: jasmitha
+Password: 123
+----------------------
+Name: Yashwanth
+Roll: UMS1003
+Course: Quantum Computing
+Father: Krishna
+Mother: Padma
+FatherPhone: 9000000002
+FatherGmail: krishna@gmail.com
+StudentPhone: 9000000003
+BloodGroup: B+
+Village: Guntur
+PreviousCollege: Narayana
+TenthMarks: 93
+InterMarks: 91
+Fees: 600000
+Username: yashwanth
+Password: 123
+----------------------
+Name: Kavya
+Roll: UMS1004
+Course: AIML
+Father: Srinivas
+Mother: Anitha
+FatherPhone: 9000000004
+FatherGmail: srinivas@gmail.com
+StudentPhone: 9000000005
+BloodGroup: AB+
+Village: Vijayawada
+PreviousCollege: Sri Chaitanya
+TenthMarks: 97
+InterMarks: 95
+Fees: 450000
+Username: kavya
+Password: 123
+----------------------
+Name: Rohit
+Roll: UMS1005
+Course: Mechanical
+Father: Mohan
+Mother: Radha
+FatherPhone: 9000000006
+FatherGmail: mohan@gmail.com
+StudentPhone: 9000000007
+BloodGroup: O-
+Village: Nellore
+PreviousCollege: Vignan
+TenthMarks: 88
+InterMarks: 85
+Fees: 300000
+Username: rohit
+Password: 123
+----------------------
+Name: Divya
+Roll: UMS1006
+Course: ECE
+Father: Shankar
+Mother: Uma
+FatherPhone: 9000000008
+FatherGmail: shankar@gmail.com
+StudentPhone: 9000000009
+BloodGroup: A-
+Village: Tenali
+PreviousCollege: Narayana
+TenthMarks: 91
+InterMarks: 89
+Fees: 350000
+Username: divya
+Password: 123
+----------------------
+Name: Anil
+Roll: UMS1007
+Course: EEE
+Father: Naresh
+Mother: Sujatha
+FatherPhone: 9000000010
+FatherGmail: naresh@gmail.com
+StudentPhone: 9000000011
+BloodGroup: B-
+Village: Chirala
+PreviousCollege: Sri Chaitanya
+TenthMarks: 87
+InterMarks: 84
+Fees: 330000
+Username: anil
+Password: 123
+----------------------
+Name: Suman
+Roll: UMS1008
+Course: Aerospace
+Father: Rajesh
+Mother: Geetha
+FatherPhone: 9000000012
+FatherGmail: rajesh@gmail.com
+StudentPhone: 9000000013
+BloodGroup: O+
+Village: Eluru
+PreviousCollege: Vikas
+TenthMarks: 92
+InterMarks: 90
+Fees: 500000
+Username: suman
+Password: 123
+----------------------
+Name: Nithya
+Roll: UMS1009
+Course: AI
+Father: Venkatesh
+Mother: Bhavani
+FatherPhone: 9000000014
+FatherGmail: venkatesh@gmail.com
+StudentPhone: 9000000015
+BloodGroup: AB-
+Village: Rajahmundry
+PreviousCollege: Narayana
+TenthMarks: 94
+InterMarks: 93
+Fees: 430000
+Username: nithya
+Password: 123
+----------------------
+Name: Harsha
+Roll: UMS1010
+Course: CSE AI
+Father: Prasad
+Mother: Madhavi
+FatherPhone: 9000000016
+FatherGmail: prasad@gmail.com
+StudentPhone: 9000000017
+BloodGroup: A+
+Village: Kurnool
+PreviousCollege: Sri Chaitanya
+TenthMarks: 95
+InterMarks: 94
+Fees: 470000
+Username: harsha
+Password: 123
+----------------------

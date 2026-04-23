@@ -1,0 +1,24 @@
+Roll: UMS1001
+Student: Sai Praneeth
+Subject: Physics
+ExamTitle: java-1
+Score: 2
+Total: 1
+Published: Yes
+----------------------
+Roll: UMS1001
+Student: Sai Praneeth
+Subject: Mechanics
+ExamTitle: mech-2
+Score: 0
+Total: 1
+Published: Yes
+----------------------
+Roll: UMS1001
+Student: Sai Praneeth
+Subject: Physics
+ExamTitle: java-1
+Score: 2
+Total: 1
+Published: No
+----------------------

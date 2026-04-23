@@ -1,0 +1,22 @@
+Subject: Physics
+ExamTitle: java-1
+Question: what is 2+2
+A: 4
+B: 0
+C: 9
+D: 4
+Answer: A
+----------------------
+END_EXAM: Physics | java-1
+====================================
+Subject: Mechanics
+ExamTitle: mech-2
+Question: what is 3*2
+A: 6
+B: 4
+C: 5
+D: 3
+Answer: A
+----------------------
+END_EXAM: Mechanics | mech-2
+====================================

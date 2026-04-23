@@ -1,0 +1,18 @@
+Teacher: Nitha
+Subject: Physics
+Roll: UMS1001
+Exam: java-1
+Marks: 12
+----------------------
+Teacher: PublishedByStaff
+Subject: Physics
+Roll: UMS1001
+Exam: java-1
+Marks: 2
+----------------------
+Teacher: PublishedByStaff
+Subject: Mechanics
+Roll: UMS1001
+Exam: mech-2
+Marks: 0
+----------------------

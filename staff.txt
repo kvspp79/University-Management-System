@@ -1,0 +1,47 @@
+Name: Anand
+StaffID: S101
+Department: CSE
+Subject: Maths
+Username: anand
+Password: 123
+----------------------
+
+Name: Divya
+StaffID: S102
+Department: AI
+Subject: DSA
+Username: divya
+Password: 123
+----------------------
+
+Name: Nitha
+StaffID: S103
+Department: AIDS
+Subject: Physics
+Username: nitha
+Password: 123
+----------------------
+
+Name: Kumar
+StaffID: S104
+Department: Mechanical
+Subject: Mechanics
+Username: kumar
+Password: 123
+----------------------
+
+Name: Suman
+StaffID: S105
+Department: Aerospace
+Subject: Electronics
+Username: suman
+Password: 123
+----------------------
+
+Name: Ganga
+StaffID: S106
+Department: MBA
+Subject: Management
+Username: ganga
+Password: 123
+----------------------
